@@ -28,7 +28,7 @@ function animateAvatars() {
 // Start the animation
 animateAvatars();
 
-var curDate = new Date("2024-09-24T00:00:00+05:30").getTime();
+var curDate = new Date("2024-09-25T00:00:00+05:30").getTime();
 
 var a = setInterval(() => {
   var now = new Date().getTime(); // Current time in local timezone
